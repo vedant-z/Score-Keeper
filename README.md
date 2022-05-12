@@ -1,7 +1,7 @@
 # Score-Keeper
 
 Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.
----
+
 
 ## How to play
 
