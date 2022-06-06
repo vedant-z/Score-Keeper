@@ -15,11 +15,9 @@ Among Player1 and Player2 (may be the same person) one who achieves the target n
 
 
 
-Ya just kidding he is the **WINNER.**
-
+Ya just kidding he is the **WINNER.**  </br>
+</br>
 ___
-
-
 <p align="center"><img src="https://user-images.githubusercontent.com/93431609/168151246-730f40c3-cf49-4be0-999c-99f7eef93609.png" /></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/93431609/168151910-495c3a6f-9073-43bc-b227-e7f312776ef1.png" /></p>
