@@ -2,6 +2,7 @@
 
 Score Keeper is a simple game which I have implemented using HTML, CSS and JavaScript.
 
+https://vedant-z.github.io/Score-Keeper/
 
 ## How to play
 
